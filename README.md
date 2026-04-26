@@ -3,9 +3,9 @@
 Trabalho 3 (T3) da disciplina **Construção de Compiladores** — DC/UFSCar.
 
 **Grupo:**
-- 794041
-- 811448
-- 812308
+Yasmin Victoria Oliveira - RA: 812308
+Anna Carolina Brito Santos Farias - RA: 811448
+Vitor Yuki Inumaru Ferreira - RA: 794041
 
 ---
 
