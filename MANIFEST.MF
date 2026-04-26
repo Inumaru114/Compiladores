@@ -1,0 +1,2 @@
+Main-Class: br.compilador.AnalisadorSemantico
+
